@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Round-54\C# all\Repository\PhoneBookRepository\PhoneBookRepository\obj\Debug\PhoneBookRepository.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Round-54\C# all\Repository\PhoneBookRepository\PhoneBookRepository\obj\Debug\PhoneBookRepository.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Round-54\C# all\Repository\PhoneBookRepository\PhoneBookRepository\obj\Debug\PhoneBookRepository.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Downloads\Repository\PhoneBookRepository\PhoneBookRepository\obj\Debug\PhoneBookRepository.csproj.AssemblyReference.cache
+C:\Users\Ussl\Downloads\Repository\PhoneBookRepository\PhoneBookRepository\obj\Debug\PhoneBookRepository.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ussl\Downloads\Repository\PhoneBookRepository\PhoneBookRepository\obj\Debug\PhoneBookRepository.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Downloads\Repository\PhoneBookRepository\PhoneBookRepository\bin\Debug\PhoneBookRepository.exe.config
+C:\Users\Ussl\Downloads\Repository\PhoneBookRepository\PhoneBookRepository\bin\Debug\PhoneBookRepository.exe
+C:\Users\Ussl\Downloads\Repository\PhoneBookRepository\PhoneBookRepository\bin\Debug\PhoneBookRepository.pdb
+C:\Users\Ussl\Downloads\Repository\PhoneBookRepository\PhoneBookRepository\obj\Debug\PhoneBookRepository.exe
+C:\Users\Ussl\Downloads\Repository\PhoneBookRepository\PhoneBookRepository\obj\Debug\PhoneBookRepository.pdb
